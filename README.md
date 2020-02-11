@@ -5,7 +5,7 @@
 
 本爬虫用于爬取全国**各个城市的迁入迁出**数据，以及某**各个省份的人数占该城市迁入或迁出人数百分比**。也就是百度迁徙页面中的这个部分：
 
-![](/Volumes/05/python/baidu_qx/img/baidu_qianxi.png)
+![](https://github.com/samelltiger/baidu_qx/blob/master/img/baidu_qianxi.png?raw=true)
 
 ### 二、项目介绍
 
